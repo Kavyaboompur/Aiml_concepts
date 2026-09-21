@@ -31,11 +31,6 @@ This repository contains well-structured notes, explanations, examples, and diag
 More topics will be added regularly as I continue learning.
 
 ---
-
-```
-
----
-
 ## 🎯 Why I Created This Repository
 
 * Build strong AI and LLM fundamentals.
